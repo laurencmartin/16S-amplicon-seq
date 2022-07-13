@@ -1,0 +1,11 @@
+Jun-17 20:58:50.772 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main_test.nf -profile slurm
+Jun-17 20:58:50.857 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 21.10.6
+Jun-17 20:58:50.949 [main] DEBUG nextflow.cli.Launcher - Operation aborted
+nextflow.exception.AbortOperationException: Not a valid project name: main_test.nf
+	at nextflow.scm.AssetManager.resolveName(AssetManager.groovy:261)
+	at nextflow.scm.AssetManager.build(AssetManager.groovy:131)
+	at nextflow.scm.AssetManager.<init>(AssetManager.groovy:109)
+	at nextflow.cli.CmdRun.getScriptFile(CmdRun.groovy:366)
+	at nextflow.cli.CmdRun.run(CmdRun.groovy:264)
+	at nextflow.cli.Launcher.run(Launcher.groovy:480)
+	at nextflow.cli.Launcher.main(Launcher.groovy:639)
