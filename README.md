@@ -1,1 +1,1 @@
-# 16S-ampliseq
+# 16S-amplicon-seq
