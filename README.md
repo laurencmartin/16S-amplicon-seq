@@ -5,3 +5,6 @@ This pipeline was developed for re-assembly, a subsequent taxonomic assignment, 
 The workflow has also been used and described in "**Short-read full-length 16S rRNA amplicon sequencing for characterisation of the respiratory bacteriome of captive and free-ranging African elephants (Loxodonta africana)**".
 
 Scripts and files have been uploaded and are available above.
+
+![image](https://github.com/laurencmartin/taxa-table-tool/assets/71465646/367eb654-55d3-41d2-8969-bb2510511ac7)
+![image](https://github.com/laurencmartin/taxa-table-tool/assets/71465646/9f5c392d-18a4-4f27-9205-411404b13773)
